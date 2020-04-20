@@ -1,0 +1,11 @@
+C:\Users\mklr9\source\repos\Variables_Y_Bucles\Variables_Y_Bucles\bin\Debug\netcoreapp3.0\Variables_Y_Bucles.exe
+C:\Users\mklr9\source\repos\Variables_Y_Bucles\Variables_Y_Bucles\bin\Debug\netcoreapp3.0\Variables_Y_Bucles.deps.json
+C:\Users\mklr9\source\repos\Variables_Y_Bucles\Variables_Y_Bucles\bin\Debug\netcoreapp3.0\Variables_Y_Bucles.runtimeconfig.json
+C:\Users\mklr9\source\repos\Variables_Y_Bucles\Variables_Y_Bucles\bin\Debug\netcoreapp3.0\Variables_Y_Bucles.runtimeconfig.dev.json
+C:\Users\mklr9\source\repos\Variables_Y_Bucles\Variables_Y_Bucles\bin\Debug\netcoreapp3.0\Variables_Y_Bucles.dll
+C:\Users\mklr9\source\repos\Variables_Y_Bucles\Variables_Y_Bucles\bin\Debug\netcoreapp3.0\Variables_Y_Bucles.pdb
+C:\Users\mklr9\source\repos\Variables_Y_Bucles\Variables_Y_Bucles\obj\Debug\netcoreapp3.0\Variables_Y_Bucles.csprojAssemblyReference.cache
+C:\Users\mklr9\source\repos\Variables_Y_Bucles\Variables_Y_Bucles\obj\Debug\netcoreapp3.0\Variables_Y_Bucles.AssemblyInfoInputs.cache
+C:\Users\mklr9\source\repos\Variables_Y_Bucles\Variables_Y_Bucles\obj\Debug\netcoreapp3.0\Variables_Y_Bucles.AssemblyInfo.cs
+C:\Users\mklr9\source\repos\Variables_Y_Bucles\Variables_Y_Bucles\obj\Debug\netcoreapp3.0\Variables_Y_Bucles.dll
+C:\Users\mklr9\source\repos\Variables_Y_Bucles\Variables_Y_Bucles\obj\Debug\netcoreapp3.0\Variables_Y_Bucles.pdb
